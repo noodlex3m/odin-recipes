@@ -3,7 +3,8 @@ body {
 	background-color: antiquewhite;
 	margin: 50px;
 }
-h1 {
+h1,
+h3 {
 	color: darkblue;
 	text-align: center;
 }
@@ -11,9 +12,22 @@ img {
 	height: 200px;
 	width: auto;
 }
-h3 {
-	color: orange;
-}
 li {
 	margin-bottom: 10px;
+}
+.pizza-pic {
+	border-radius: 50%;
+	border: 5px solid red;
+	padding: 20px;
+	background-color: white;
+	margin-left: 100px;
+}
+a {
+	color: brown;
+	text-decoration: none;
+	font-weight: bold;
+}
+a:hover {
+	color: darkred;
+	text-decoration: underline;
 }
