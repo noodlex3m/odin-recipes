@@ -1,0 +1,19 @@
+body {
+	font-family: sans-serif;
+	background-color: antiquewhite;
+	margin: 50px;
+}
+h1 {
+	color: darkblue;
+	text-align: center;
+}
+img {
+	height: 200px;
+	width: auto;
+}
+h3 {
+	color: orange;
+}
+li {
+	margin-bottom: 10px;
+}
