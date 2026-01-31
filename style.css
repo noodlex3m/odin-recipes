@@ -44,3 +44,10 @@ a:hover {
 	display: block;
 	margin-bottom: 10px;
 }
+
+.recipes-container {
+	display: flex;
+	justify-content: center;
+	gap: 20px;
+	flex-wrap: wrap;
+}
